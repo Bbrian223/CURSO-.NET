@@ -1,0 +1,17 @@
+C:\Users\BBARRERA\Documents\GitHub\CURSO-.NET\TP6-BarreraBrian\bin\Debug\net8.0-windows\TP6-BarreraBrian.exe
+C:\Users\BBARRERA\Documents\GitHub\CURSO-.NET\TP6-BarreraBrian\bin\Debug\net8.0-windows\TP6-BarreraBrian.deps.json
+C:\Users\BBARRERA\Documents\GitHub\CURSO-.NET\TP6-BarreraBrian\bin\Debug\net8.0-windows\TP6-BarreraBrian.runtimeconfig.json
+C:\Users\BBARRERA\Documents\GitHub\CURSO-.NET\TP6-BarreraBrian\bin\Debug\net8.0-windows\TP6-BarreraBrian.dll
+C:\Users\BBARRERA\Documents\GitHub\CURSO-.NET\TP6-BarreraBrian\bin\Debug\net8.0-windows\TP6-BarreraBrian.pdb
+C:\Users\BBARRERA\Documents\GitHub\CURSO-.NET\TP6-BarreraBrian\obj\Debug\net8.0-windows\TP6-BarreraBrian.csproj.GenerateResource.cache
+C:\Users\BBARRERA\Documents\GitHub\CURSO-.NET\TP6-BarreraBrian\obj\Debug\net8.0-windows\TP6-BarreraBrian.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BBARRERA\Documents\GitHub\CURSO-.NET\TP6-BarreraBrian\obj\Debug\net8.0-windows\TP6-BarreraBrian.AssemblyInfoInputs.cache
+C:\Users\BBARRERA\Documents\GitHub\CURSO-.NET\TP6-BarreraBrian\obj\Debug\net8.0-windows\TP6-BarreraBrian.AssemblyInfo.cs
+C:\Users\BBARRERA\Documents\GitHub\CURSO-.NET\TP6-BarreraBrian\obj\Debug\net8.0-windows\TP6-BarreraBrian.csproj.CoreCompileInputs.cache
+C:\Users\BBARRERA\Documents\GitHub\CURSO-.NET\TP6-BarreraBrian\obj\Debug\net8.0-windows\TP6-BarreraBrian.sourcelink.json
+C:\Users\BBARRERA\Documents\GitHub\CURSO-.NET\TP6-BarreraBrian\obj\Debug\net8.0-windows\TP6-BarreraBrian.dll
+C:\Users\BBARRERA\Documents\GitHub\CURSO-.NET\TP6-BarreraBrian\obj\Debug\net8.0-windows\refint\TP6-BarreraBrian.dll
+C:\Users\BBARRERA\Documents\GitHub\CURSO-.NET\TP6-BarreraBrian\obj\Debug\net8.0-windows\TP6-BarreraBrian.pdb
+C:\Users\BBARRERA\Documents\GitHub\CURSO-.NET\TP6-BarreraBrian\obj\Debug\net8.0-windows\TP6-BarreraBrian.genruntimeconfig.cache
+C:\Users\BBARRERA\Documents\GitHub\CURSO-.NET\TP6-BarreraBrian\obj\Debug\net8.0-windows\ref\TP6-BarreraBrian.dll
+C:\Users\BBARRERA\Documents\GitHub\CURSO-.NET\TP6-BarreraBrian\obj\Debug\net8.0-windows\TP6_BarreraBrian.FormGestionLibros.resources
