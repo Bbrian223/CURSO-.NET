@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TP7-BarreraBrian/1.0.0": {
+        "dependencies": {
+          "TP7-BarreraBrian.Data": "1.0.0",
+          "TP7-BarreraBrian.Entities": "1.0.0"
+        },
+        "runtime": {
+          "TP7-BarreraBrian.dll": {}
+        }
+      },
+      "TP7-BarreraBrian.Data/1.0.0": {
+        "dependencies": {
+          "TP7-BarreraBrian.Entities": "1.0.0"
+        },
+        "runtime": {
+          "TP7-BarreraBrian.Data.dll": {}
+        }
+      },
+      "TP7-BarreraBrian.Entities/1.0.0": {
+        "runtime": {
+          "TP7-BarreraBrian.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TP7-BarreraBrian/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TP7-BarreraBrian.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TP7-BarreraBrian.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

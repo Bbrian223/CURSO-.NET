@@ -1,0 +1,12 @@
+C:\Users\BBARRERA\Documents\GitHub\CURSO-.NET\TP7-BarreraBrian.Entities\bin\Debug\net8.0\TP7-BarreraBrian.Entities.deps.json
+C:\Users\BBARRERA\Documents\GitHub\CURSO-.NET\TP7-BarreraBrian.Entities\bin\Debug\net8.0\TP7-BarreraBrian.Entities.dll
+C:\Users\BBARRERA\Documents\GitHub\CURSO-.NET\TP7-BarreraBrian.Entities\bin\Debug\net8.0\TP7-BarreraBrian.Entities.pdb
+C:\Users\BBARRERA\Documents\GitHub\CURSO-.NET\TP7-BarreraBrian.Entities\obj\Debug\net8.0\TP7-BarreraBrian.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BBARRERA\Documents\GitHub\CURSO-.NET\TP7-BarreraBrian.Entities\obj\Debug\net8.0\TP7-BarreraBrian.Entities.AssemblyInfoInputs.cache
+C:\Users\BBARRERA\Documents\GitHub\CURSO-.NET\TP7-BarreraBrian.Entities\obj\Debug\net8.0\TP7-BarreraBrian.Entities.AssemblyInfo.cs
+C:\Users\BBARRERA\Documents\GitHub\CURSO-.NET\TP7-BarreraBrian.Entities\obj\Debug\net8.0\TP7-BarreraBrian.Entities.csproj.CoreCompileInputs.cache
+C:\Users\BBARRERA\Documents\GitHub\CURSO-.NET\TP7-BarreraBrian.Entities\obj\Debug\net8.0\TP7-BarreraBrian.Entities.sourcelink.json
+C:\Users\BBARRERA\Documents\GitHub\CURSO-.NET\TP7-BarreraBrian.Entities\obj\Debug\net8.0\TP7-BarreraBrian.Entities.dll
+C:\Users\BBARRERA\Documents\GitHub\CURSO-.NET\TP7-BarreraBrian.Entities\obj\Debug\net8.0\refint\TP7-BarreraBrian.Entities.dll
+C:\Users\BBARRERA\Documents\GitHub\CURSO-.NET\TP7-BarreraBrian.Entities\obj\Debug\net8.0\TP7-BarreraBrian.Entities.pdb
+C:\Users\BBARRERA\Documents\GitHub\CURSO-.NET\TP7-BarreraBrian.Entities\obj\Debug\net8.0\ref\TP7-BarreraBrian.Entities.dll

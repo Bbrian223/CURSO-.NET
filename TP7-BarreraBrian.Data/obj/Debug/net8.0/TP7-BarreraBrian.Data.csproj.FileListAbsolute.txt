@@ -1,0 +1,16 @@
+C:\Users\BBARRERA\Documents\GitHub\CURSO-.NET\TP7-BarreraBrian.Data\bin\Debug\net8.0\TP7-BarreraBrian.Data.deps.json
+C:\Users\BBARRERA\Documents\GitHub\CURSO-.NET\TP7-BarreraBrian.Data\bin\Debug\net8.0\TP7-BarreraBrian.Data.dll
+C:\Users\BBARRERA\Documents\GitHub\CURSO-.NET\TP7-BarreraBrian.Data\bin\Debug\net8.0\TP7-BarreraBrian.Data.pdb
+C:\Users\BBARRERA\Documents\GitHub\CURSO-.NET\TP7-BarreraBrian.Data\bin\Debug\net8.0\TP7-BarreraBrian.Entities.dll
+C:\Users\BBARRERA\Documents\GitHub\CURSO-.NET\TP7-BarreraBrian.Data\bin\Debug\net8.0\TP7-BarreraBrian.Entities.pdb
+C:\Users\BBARRERA\Documents\GitHub\CURSO-.NET\TP7-BarreraBrian.Data\obj\Debug\net8.0\TP7-BarreraBrian.Data.csproj.AssemblyReference.cache
+C:\Users\BBARRERA\Documents\GitHub\CURSO-.NET\TP7-BarreraBrian.Data\obj\Debug\net8.0\TP7-BarreraBrian.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BBARRERA\Documents\GitHub\CURSO-.NET\TP7-BarreraBrian.Data\obj\Debug\net8.0\TP7-BarreraBrian.Data.AssemblyInfoInputs.cache
+C:\Users\BBARRERA\Documents\GitHub\CURSO-.NET\TP7-BarreraBrian.Data\obj\Debug\net8.0\TP7-BarreraBrian.Data.AssemblyInfo.cs
+C:\Users\BBARRERA\Documents\GitHub\CURSO-.NET\TP7-BarreraBrian.Data\obj\Debug\net8.0\TP7-BarreraBrian.Data.csproj.CoreCompileInputs.cache
+C:\Users\BBARRERA\Documents\GitHub\CURSO-.NET\TP7-BarreraBrian.Data\obj\Debug\net8.0\TP7-BarreraBrian.Data.sourcelink.json
+C:\Users\BBARRERA\Documents\GitHub\CURSO-.NET\TP7-BarreraBrian.Data\obj\Debug\net8.0\TP7-Barr.2A52D997.Up2Date
+C:\Users\BBARRERA\Documents\GitHub\CURSO-.NET\TP7-BarreraBrian.Data\obj\Debug\net8.0\TP7-BarreraBrian.Data.dll
+C:\Users\BBARRERA\Documents\GitHub\CURSO-.NET\TP7-BarreraBrian.Data\obj\Debug\net8.0\refint\TP7-BarreraBrian.Data.dll
+C:\Users\BBARRERA\Documents\GitHub\CURSO-.NET\TP7-BarreraBrian.Data\obj\Debug\net8.0\TP7-BarreraBrian.Data.pdb
+C:\Users\BBARRERA\Documents\GitHub\CURSO-.NET\TP7-BarreraBrian.Data\obj\Debug\net8.0\ref\TP7-BarreraBrian.Data.dll
