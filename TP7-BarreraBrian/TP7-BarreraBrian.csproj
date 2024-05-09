@@ -10,8 +10,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\TP7-BarreraBrian.Data\TP7-BarreraBrian.Data.csproj" />
-    <ProjectReference Include="..\TP7-BarreraBrian.Entities\TP7-BarreraBrian.Entities.csproj" />
+    <PackageReference Include="Microsoft.Data.SqlClient" Version="5.2.0" />
   </ItemGroup>
 
 </Project>

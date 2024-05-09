@@ -1,3 +1,5 @@
+using TP7_BarreraBrian.Entities.Data;
+
 namespace TP7_BarreraBrian
 {
     internal static class Program
@@ -12,6 +14,7 @@ namespace TP7_BarreraBrian
             // see https://aka.ms/applicationconfiguration.
             ApplicationConfiguration.Initialize();
             Application.Run(new Form1());
+            
         }
     }
 }

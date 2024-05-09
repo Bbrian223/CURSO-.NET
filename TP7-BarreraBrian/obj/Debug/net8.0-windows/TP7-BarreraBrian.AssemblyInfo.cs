@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TP7-BarreraBrian")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e9eea549ee67e2461123f541f65ada6df595f74f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+05c03643cbfac966d7b160bcf7245a41d2dd4441")]
 [assembly: System.Reflection.AssemblyProductAttribute("TP7-BarreraBrian")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TP7-BarreraBrian")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

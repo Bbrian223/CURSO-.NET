@@ -5,10 +5,6 @@ VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TP7-BarreraBrian", "TP7-BarreraBrian.csproj", "{625C0F0F-A20A-4300-BD56-AA5A083A6229}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TP7-BarreraBrian.Entities", "..\TP7-BarreraBrian.Entities\TP7-BarreraBrian.Entities.csproj", "{E994E386-DF54-46CA-ABE8-AE7C8EC5EFDF}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TP7-BarreraBrian.Data", "..\TP7-BarreraBrian.Data\TP7-BarreraBrian.Data.csproj", "{60594DBE-552E-4F39-B3A2-D8F95A525B68}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,14 +15,6 @@ Global
 		{625C0F0F-A20A-4300-BD56-AA5A083A6229}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{625C0F0F-A20A-4300-BD56-AA5A083A6229}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{625C0F0F-A20A-4300-BD56-AA5A083A6229}.Release|Any CPU.Build.0 = Release|Any CPU
-		{E994E386-DF54-46CA-ABE8-AE7C8EC5EFDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E994E386-DF54-46CA-ABE8-AE7C8EC5EFDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E994E386-DF54-46CA-ABE8-AE7C8EC5EFDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E994E386-DF54-46CA-ABE8-AE7C8EC5EFDF}.Release|Any CPU.Build.0 = Release|Any CPU
-		{60594DBE-552E-4F39-B3A2-D8F95A525B68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{60594DBE-552E-4F39-B3A2-D8F95A525B68}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{60594DBE-552E-4F39-B3A2-D8F95A525B68}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{60594DBE-552E-4F39-B3A2-D8F95A525B68}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

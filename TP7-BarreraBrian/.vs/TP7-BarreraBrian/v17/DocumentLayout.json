@@ -3,21 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\BBARRERA\\Documents\\GitHub\\CURSO-.NET\\TP7-BarreraBrian\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{60594DBE-552E-4F39-B3A2-D8F95A525B68}|..\\TP7-BarreraBrian.Data\\TP7-BarreraBrian.Data.csproj|c:\\users\\bbarrera\\documents\\github\\curso-.net\\tp7-barrerabrian.data\\empleadorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{625C0F0F-A20A-4300-BD56-AA5A083A6229}|TP7-BarreraBrian.csproj|c:\\users\\bbarrera\\documents\\github\\curso-.net\\tp7-barrerabrian\\entities.data\\empleadorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{625C0F0F-A20A-4300-BD56-AA5A083A6229}|TP7-BarreraBrian.csproj|solutionrelative:entities.data\\empleadorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{625C0F0F-A20A-4300-BD56-AA5A083A6229}|TP7-BarreraBrian.csproj|C:\\Users\\BBARRERA\\Documents\\GitHub\\CURSO-.NET\\TP7-BarreraBrian\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{625C0F0F-A20A-4300-BD56-AA5A083A6229}|TP7-BarreraBrian.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E994E386-DF54-46CA-ABE8-AE7C8EC5EFDF}|..\\TP7-BarreraBrian.Entities\\TP7-BarreraBrian.Entities.csproj|c:\\users\\bbarrera\\documents\\github\\curso-.net\\tp7-barrerabrian.entities\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{60594DBE-552E-4F39-B3A2-D8F95A525B68}|..\\TP7-BarreraBrian.Data\\TP7-BarreraBrian.Data.csproj|c:\\users\\bbarrera\\documents\\github\\curso-.net\\tp7-barrerabrian.data\\tp7-barrerabrian.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{625C0F0F-A20A-4300-BD56-AA5A083A6229}|TP7-BarreraBrian.csproj|c:\\users\\bbarrera\\documents\\github\\curso-.net\\tp7-barrerabrian\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{625C0F0F-A20A-4300-BD56-AA5A083A6229}|TP7-BarreraBrian.csproj|C:\\Users\\BBARRERA\\Documents\\GitHub\\CURSO-.NET\\TP7-BarreraBrian\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{625C0F0F-A20A-4300-BD56-AA5A083A6229}|TP7-BarreraBrian.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{625C0F0F-A20A-4300-BD56-AA5A083A6229}|TP7-BarreraBrian.csproj|c:\\users\\bbarrera\\documents\\github\\curso-.net\\tp7-barrerabrian\\entities\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{625C0F0F-A20A-4300-BD56-AA5A083A6229}|TP7-BarreraBrian.csproj|solutionrelative:entities\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{625C0F0F-A20A-4300-BD56-AA5A083A6229}|TP7-BarreraBrian.csproj|C:\\Users\\BBARRERA\\Documents\\GitHub\\CURSO-.NET\\TP7-BarreraBrian\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{625C0F0F-A20A-4300-BD56-AA5A083A6229}|TP7-BarreraBrian.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,21 +30,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "TP7-BarreraBrian.Data",
-              "DocumentMoniker": "C:\\Users\\BBARRERA\\Documents\\GitHub\\CURSO-.NET\\TP7-BarreraBrian.Data\\TP7-BarreraBrian.Data.csproj",
-              "RelativeDocumentMoniker": "..\\TP7-BarreraBrian.Data\\TP7-BarreraBrian.Data.csproj",
-              "ToolTip": "C:\\Users\\BBARRERA\\Documents\\GitHub\\CURSO-.NET\\TP7-BarreraBrian.Data\\TP7-BarreraBrian.Data.csproj",
-              "RelativeToolTip": "..\\TP7-BarreraBrian.Data\\TP7-BarreraBrian.Data.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-07T03:05:18.376Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
@@ -50,27 +40,52 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "EmpleadoRepository.cs",
-              "DocumentMoniker": "C:\\Users\\BBARRERA\\Documents\\GitHub\\CURSO-.NET\\TP7-BarreraBrian.Data\\EmpleadoRepository.cs",
-              "RelativeDocumentMoniker": "..\\TP7-BarreraBrian.Data\\EmpleadoRepository.cs",
-              "ToolTip": "C:\\Users\\BBARRERA\\Documents\\GitHub\\CURSO-.NET\\TP7-BarreraBrian.Data\\EmpleadoRepository.cs",
-              "RelativeToolTip": "..\\TP7-BarreraBrian.Data\\EmpleadoRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAfAAAA",
+              "DocumentMoniker": "C:\\Users\\BBARRERA\\Documents\\GitHub\\CURSO-.NET\\TP7-BarreraBrian\\Entities.Data\\EmpleadoRepository.cs",
+              "RelativeDocumentMoniker": "Entities.Data\\EmpleadoRepository.cs",
+              "ToolTip": "C:\\Users\\BBARRERA\\Documents\\GitHub\\CURSO-.NET\\TP7-BarreraBrian\\Entities.Data\\EmpleadoRepository.cs",
+              "RelativeToolTip": "Entities.Data\\EmpleadoRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T02:59:47.447Z",
+              "WhenOpened": "2024-05-07T22:34:25.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\BBARRERA\\Documents\\GitHub\\CURSO-.NET\\TP7-BarreraBrian\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\BBARRERA\\Documents\\GitHub\\CURSO-.NET\\TP7-BarreraBrian\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T22:14:27.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\BBARRERA\\Documents\\GitHub\\CURSO-.NET\\TP7-BarreraBrian\\Entities\\Empleado.cs",
+              "RelativeDocumentMoniker": "Entities\\Empleado.cs",
+              "ToolTip": "C:\\Users\\BBARRERA\\Documents\\GitHub\\CURSO-.NET\\TP7-BarreraBrian\\Entities\\Empleado.cs",
+              "RelativeToolTip": "Entities\\Empleado.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T01:43:52.629Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Empleado.cs",
-              "DocumentMoniker": "C:\\Users\\BBARRERA\\Documents\\GitHub\\CURSO-.NET\\TP7-BarreraBrian.Entities\\Empleado.cs",
-              "RelativeDocumentMoniker": "..\\TP7-BarreraBrian.Entities\\Empleado.cs",
-              "ToolTip": "C:\\Users\\BBARRERA\\Documents\\GitHub\\CURSO-.NET\\TP7-BarreraBrian.Entities\\Empleado.cs",
-              "RelativeToolTip": "..\\TP7-BarreraBrian.Entities\\Empleado.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAQwCEAAACdAAAA",
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\BBARRERA\\Documents\\GitHub\\CURSO-.NET\\TP7-BarreraBrian\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\BBARRERA\\Documents\\GitHub\\CURSO-.NET\\TP7-BarreraBrian\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T02:18:06.973Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-07T02:01:05.087Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
@@ -80,22 +95,10 @@
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\Users\\BBARRERA\\Documents\\GitHub\\CURSO-.NET\\TP7-BarreraBrian\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAArAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAA/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-07T02:02:05.472Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\BBARRERA\\Documents\\GitHub\\CURSO-.NET\\TP7-BarreraBrian\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\BBARRERA\\Documents\\GitHub\\CURSO-.NET\\TP7-BarreraBrian\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T02:01:05.087Z",
-              "EditorCaption": " [Dise\u00F1o]"
             }
           ]
         }

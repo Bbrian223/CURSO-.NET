@@ -42,11 +42,12 @@
             txbId = new TextBox();
             chkCasado = new CheckBox();
             listBoxEmpleados = new ListBox();
+            btnMostrarEmpleado = new Button();
             SuspendLayout();
             // 
             // btnIngreso
             // 
-            btnIngreso.Location = new Point(98, 325);
+            btnIngreso.Location = new Point(103, 397);
             btnIngreso.Name = "btnIngreso";
             btnIngreso.Size = new Size(183, 31);
             btnIngreso.TabIndex = 25;
@@ -159,14 +160,25 @@
             listBoxEmpleados.ItemHeight = 15;
             listBoxEmpleados.Location = new Point(347, 43);
             listBoxEmpleados.Name = "listBoxEmpleados";
-            listBoxEmpleados.Size = new Size(484, 379);
+            listBoxEmpleados.Size = new Size(484, 304);
             listBoxEmpleados.TabIndex = 26;
+            // 
+            // btnMostrarEmpleado
+            // 
+            btnMostrarEmpleado.Location = new Point(492, 397);
+            btnMostrarEmpleado.Name = "btnMostrarEmpleado";
+            btnMostrarEmpleado.Size = new Size(183, 31);
+            btnMostrarEmpleado.TabIndex = 27;
+            btnMostrarEmpleado.Text = "Mostrar Empleados";
+            btnMostrarEmpleado.UseVisualStyleBackColor = true;
+            btnMostrarEmpleado.Click += btnMostrarEmpleado_Click;
             // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(893, 482);
+            Controls.Add(btnMostrarEmpleado);
             Controls.Add(listBoxEmpleados);
             Controls.Add(btnIngreso);
             Controls.Add(lbCasado);
@@ -203,5 +215,6 @@
         private TextBox txbId;
         private CheckBox chkCasado;
         private ListBox listBoxEmpleados;
+        private Button btnMostrarEmpleado;
     }
 }
